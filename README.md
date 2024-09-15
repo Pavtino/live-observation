@@ -11,5 +11,5 @@ After downloading the project and unzipping it on the www directory, just create
 import database.sql located in database directory to your newly created database.
 In the root directory, open config.php and add your credential to connect to your database. Then you can launch your plattform to your prefered browser.
 ## Contribution
-every body want to contribute to this project, just send email to pavtino@gmail.com
-<img src="psod.png" width="150" heigth="150"></img>
+<br/>
+<img src="psod.png" ></img>
