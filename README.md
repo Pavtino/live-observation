@@ -12,4 +12,10 @@ import database.sql located in database directory to your newly created database
 In the root directory, open config.php and add your credential to connect to your database. Then you can launch your plattform to your prefered browser.
 ## Contribution
 <br/>
-<img src="psod.png" ></img>
+<img src="img/psod.png" width="200" height="150"></img>
+<br/>
+<img src="img/psod1.png" width="200" height="150"></img>
+<br/>
+<img src="img/psod2.png" width="200" height="150"></img>
+<br/>
+<img src="img/psod3.png" width="200" height="150"></img>
